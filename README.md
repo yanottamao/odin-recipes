@@ -6,7 +6,7 @@ The Odin Project's Foundations Recipes Project
 This repository contain files for Recipes Project website.
 
 
-## Resources
+## Resource credits
 
 ### Reference
 1. The Odin Project's Foundations Path [Project: Recipes](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes).

@@ -55,3 +55,11 @@ img {
 .bg-dark {
     background-color: #c43e00;
 }
+
+ol, ul, li, a, p {
+    background-color: inherit;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    text-align: inherit;
+}

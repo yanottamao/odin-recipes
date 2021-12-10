@@ -15,3 +15,6 @@ This repository contain files for Recipes Project website.
 1. Lasagna recipe: [Hearty Vegetable Lasagna](https://www.allrecipes.com/recipe/11786/hearty-vegetable-lasagna/) by [Sue](https://www.allrecipes.com/cook/sbeachem@juno.com/).
 2. Chicken recipe: [Chef John's Chicken and Mushrooms](https://www.allrecipes.com/recipe/221887/chef-johns-chicken-and-mushrooms/) by [Chef John](https://www.allrecipes.com/cook/foodwisheswithchefjohn/).
 3. Tofu recipe: [Sarah's Tofu Noodle Soup](https://www.allrecipes.com/recipe/178839/sarahs-tofu-noodle-soup/) by [Sarah Dipity](https://www.allrecipes.com/cook/1027007/).
+
+### Color pallete
+1. Material color: [Amber 900](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=FF6F00).
